@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi, I'm Gabriel Rapucci Gonzalez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-<!--
-**gabrielrg14/gabrielrg14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻   Front-end Developer at Allergisa, a business of ALS <br>
+:house:   Campinas - Brazil
+<br>
 
-Here are some ideas to get you started:
+**Technologies I use in my daily life** <br>
+<div>
+  <img height="50" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
+  <img height="50" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  <img height="50" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="50" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="50" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+  <img height="50" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technologies currently being studied** <br>
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled-components](https://styled-components.com/)
+<br>
+
+**My Github Stats** <br>
+<div>
+  <a href="https://github.com/gabrielrg14">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielrg14&count_private=true&show_icons=true&&theme=prussian"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrg14&layout=compact&langs_count=8&theme=prussian"/>
+  </a>
+</div>
+<br>
+
+**Personal website**: <a href="https://personal-website-gabrielrg.vercel.app/">Click to visit</a><br>
+
+<a href="https://github.com/anuraghazra/personal-website">
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrg14&repo=personal-website&theme=prussian" />
+</a>
