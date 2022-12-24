@@ -1,8 +1,8 @@
 ### Hi, I'm Gabriel Rapucci Gonzalez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-💻 Front-end Developer at Allergisa, a business of ALS <br>
-🏠 Campinas, Brazil <br>
-🌐 <a href="https://personal-website-gabrielrg.vercel.app/" target="_blank">Website</a>
+💻  Front-end Developer at Allergisa, a business of ALS <br>
+🏠  Campinas, Brazil <br>
+🌐  [Website](https://personal-website-gabrielrg.vercel.app/)
 
 **Technologies I use in my daily life** <br>
 <div>
@@ -19,7 +19,6 @@
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled-components](https://styled-components.com/)
-<br>
 
 **My GitHub Stats** <br>
 <div>
