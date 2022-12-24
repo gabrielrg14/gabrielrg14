@@ -1,8 +1,8 @@
 ### Hi, I'm Gabriel Rapucci Gonzalez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-💻   Front-end Developer at Allergisa, a business of ALS <br>
-:house:   Campinas - Brazil
-<br>
+💻 Front-end Developer at Allergisa, a business of ALS <br>
+🏠 Campinas, Brazil <br>
+🌐 <a href="https://personal-website-gabrielrg.vercel.app/" target="_blank">Website</a>
 
 **Technologies I use in my daily life** <br>
 <div>
@@ -21,17 +21,10 @@
 - [Styled-components](https://styled-components.com/)
 <br>
 
-**My Github Stats** <br>
+**My GitHub Stats** <br>
 <div>
   <a href="https://github.com/gabrielrg14">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielrg14&count_private=true&show_icons=true&&theme=prussian"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrg14&layout=compact&langs_count=8&theme=prussian"/>
   </a>
 </div>
-<br>
-
-**Personal website**: <a href="https://personal-website-gabrielrg.vercel.app/">Click to visit</a><br>
-
-<a href="https://github.com/anuraghazra/personal-website">
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielrg14&repo=personal-website&theme=prussian" />
-</a>
