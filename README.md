@@ -19,6 +19,8 @@
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled-components](https://styled-components.com/)
+- [Jest](https://jestjs.io/)
+- [Testing Library](https://testing-library.com/)
 
 **My GitHub Stats** <br>
 <div>
