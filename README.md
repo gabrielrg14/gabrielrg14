@@ -18,9 +18,9 @@
 **Technologies currently being studied** <br>
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Styled-components](https://styled-components.com/)
+- [Styled Components](https://styled-components.com/)
 - [Jest](https://jestjs.io/)
-- [Testing Library](https://testing-library.com/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 **My GitHub Stats** <br>
 <div>
