@@ -26,7 +26,7 @@
 **My GitHub Stats** <br>
 <div>
   <a href="https://github.com/gabrielrg14">
-    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielrg14&count_private=true&show_icons=true&&theme=prussian"/>
-    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielrg14&layout=compact&langs_count=8&theme=prussian"/>
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielrg14&include_all_commits=true&count_private=true&show_icons=true&theme=react"/>
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielrg14&count_private=true&layout=compact&langs_count=8&theme=react"/>
   </a>
 </div>
