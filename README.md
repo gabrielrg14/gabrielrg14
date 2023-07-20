@@ -2,7 +2,7 @@
 
 💻  Front-end Developer at Allergisa, a business of ALS <br>
 🏠  Campinas, Brazil <br>
-🌐  [Website](https://personal-website-gabrielrg.vercel.app/)
+🌐  [Website](https://gabrielrapucci.com.br/)
 
 **Technologies I use in my daily life** <br>
 <div>
