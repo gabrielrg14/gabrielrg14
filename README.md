@@ -17,6 +17,7 @@
 
 **Technologies currently being studied** <br>
 - [Next.js](https://nextjs.org/)
+- [Vercel](https://www.vercel.com)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com/)
 - [GraphQL](https://graphql.org/)
