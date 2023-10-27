@@ -1,6 +1,6 @@
 ---
 
-### Hi, I'm Gabriel Rapucci Gonzalez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+### 👋 Hi, I'm Gabriel Rapucci Gonzalez! 
 
 💻  Front-end Developer at Allergisa, a business of ALS <br>
 🏠  Campinas, Brazil <br>
