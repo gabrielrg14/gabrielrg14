@@ -79,6 +79,12 @@
         </a> 
       </td>
       <td align="center">
+        <p>Expo</p>
+        <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+          <img src="https://static.expo.dev/static/brand/square-228x228.png" alt="expo" width="50" height="50"/>
+        </a> 
+      </td>
+      <td align="center">
         <p>TypeScript</p>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="50" height="50"/>
