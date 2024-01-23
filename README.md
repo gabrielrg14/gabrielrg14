@@ -52,7 +52,7 @@
       <td align="center">
         <p>Styled C.</p>
         <a href="https://styled-icons.dev/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styled components" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styled_components" width="50" height="50"/>
         </a> 
       </td>
       <td align="center">
@@ -68,7 +68,7 @@
         </a> 
       </td>
       <td align="center">
-        <p>Testing Library</p>
+        <p>Testing Lib</p>
         <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer">
           <img src="https://testing-library.com/img/octopus-128x128.png" alt="testing_library" width="50" height="50"/>
         </a> 
