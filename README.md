@@ -9,7 +9,7 @@
 ##
 
 <div align="center">
-  <h3>👨‍💻 Techs and tools I use in my daily life 👨‍💻</h3>
+  <h3>👨‍💻 Techs and tools I use in my daily life</h3>
   
   <table>
     <tr>
@@ -80,7 +80,7 @@
 ##
 
 <div align="center">
-  <h3>💻 Techs and tools I have used 💻</h3>
+  <h3>💻 Techs and tools I have used</h3>
   
   <table>
     <tr>
@@ -133,7 +133,7 @@
 ##
 
 <div align="center">
-  <h3>📚 At the moment, I'm studying 📚</h3>
+  <h3>📚 At the moment, I'm studying</h3>
 
   <table>
     <tr>
@@ -159,8 +159,10 @@
   <h3>:fire: My GitHub Stats</h3>
   
   <a href="https://github.com/gabrielrg14">
-    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielrg14&include_all_commits=true&count_private=true&show_icons=true&theme=react"/>
-    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielrg14&count_private=true&layout=compact&langs_count=8&theme=react"/>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielrg14&hide_title=true&rank_icon=github&show_icons=true&bg_color=161817&title_color=18a330&icon_color=18a330&border_color=18a330&ring_color=18a330&text_color=f7fcfe" />
+  </a>
+  <a href="https://github.com/gabrielrg14">
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielrg14&hide_title=true&bg_color=161817&title_color=18a330&border_color=18a330&text_color=f7fcfe&layout=compact&hide=SCSS" />
   </a>
 </div>
 
@@ -169,7 +171,7 @@
 <div align="center">
   <h3>💬 Contacts</h3>
   
-  <a href="mailto:gabrielrapuccigonzalez14@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white"></a>
+  <a href="mailto:gabrielrapuccigonzalez14@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-161817?style=for-the-badge&logo=microsoftoutlook&logoColor=0F6CBD"></a>
   <a href="https://www.linkedin.com/in/gabrielrapuccigonzalez/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
