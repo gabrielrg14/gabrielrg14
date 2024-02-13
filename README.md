@@ -149,6 +149,12 @@
           <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="50" height="50"/>
         </a> 
       </td>
+      <td align="center">
+        <p>GitHub Actions</p>
+        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=githubactions" alt="github_actions" width="50" height="50"/>
+        </a> 
+      </td>
     </tr>
   </table>
 </div>
@@ -160,8 +166,6 @@
   
   <a href="https://github.com/gabrielrg14">
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielrg14&hide_title=true&rank_icon=github&show_icons=true&bg_color=161817&title_color=18a330&icon_color=18a330&border_color=18a330&ring_color=18a330&text_color=f7fcfe" />
-  </a>
-  <a href="https://github.com/gabrielrg14">
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielrg14&hide_title=true&bg_color=161817&title_color=18a330&border_color=18a330&text_color=f7fcfe&layout=compact&hide=SCSS" />
   </a>
 </div>
