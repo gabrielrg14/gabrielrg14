@@ -150,9 +150,21 @@
         </a> 
       </td>
       <td align="center">
-        <p>GitHub Actions</p>
-        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=githubactions" alt="github_actions" width="50" height="50"/>
+        <p>AWS</p>
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="50" height="50"/>
+        </a> 
+      </td>
+      <td align="center">
+        <p>Microsoft Azure</p>
+        <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="50" height="50"/>
+        </a> 
+      </td>
+      <td align="center">
+        <p>Google Cloud</p>
+        <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=gcp" alt="google_cloud" width="50" height="50"/>
         </a> 
       </td>
     </tr>
