@@ -9,7 +9,7 @@
 ##
 
 <div align="center">
-  <h3>👨‍💻 Techs and tools I use in my daily life</h3>
+  <h3>👨‍💻 Techs and tools I usually use</h3>
   
   <table>
     <tr>
@@ -97,21 +97,21 @@
         </a> 
       </td>
       <td align="center">
-        <p>Vue.js</p>
-        <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="50" height="50"/>
-        </a> 
-      </td>
-      <td align="center">
         <p>Redux</p>
         <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="50" height="50"/>
         </a> 
       </td>
       <td align="center">
-        <p>GraphQL</p>
-        <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="50" height="50"/>
+        <p>Vue.js</p>
+        <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="50" height="50"/>
+        </a> 
+      </td>
+      <td align="center">
+        <p>Tailwind</p>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="50" height="50"/>
         </a> 
       </td>
       <td align="center">
@@ -121,10 +121,10 @@
         </a> 
       </td>
       <td align="center">
-        <p>Tailwind</p>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="50" height="50"/>
-        </a> 
+        <p>Docker</p>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="50" height="50"/>
+        </a>
       </td>
     </tr>
   </table>
@@ -133,38 +133,20 @@
 ##
 
 <div align="center">
-  <h3>📚 At the moment, I'm studying</h3>
+  <h3>📚 I'm studying at the moment</h3>
 
   <table>
     <tr>
       <td align="center">
-        <p>Docker</p>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="50" height="50"/>
+        <p>Cypress</p>
+        <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="50" height="50"/>
         </a>
       </td>
       <td align="center">
-        <p>Kubernetes</p>
-        <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="50" height="50"/>
-        </a> 
-      </td>
-      <td align="center">
-        <p>AWS</p>
-        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="50" height="50"/>
-        </a> 
-      </td>
-      <td align="center">
-        <p>Microsoft Azure</p>
-        <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="50" height="50"/>
-        </a> 
-      </td>
-      <td align="center">
-        <p>Google Cloud</p>
-        <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=gcp" alt="google_cloud" width="50" height="50"/>
+        <p>GitHub Actions</p>
+        <a href="https://github.com/features/actions/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=githubactions" alt="github_actions" width="50" height="50"/>
         </a> 
       </td>
     </tr>
