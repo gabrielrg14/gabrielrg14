@@ -51,6 +51,8 @@
           <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="50" height="50"/>
         </a> 
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <p>Styled C.</p>
         <a href="https://styled-icons.dev/" target="_blank" rel="noreferrer">
@@ -73,6 +75,18 @@
         <p>Testing Lib</p>
         <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer">
           <img src="https://testing-library.com/img/octopus-128x128.png" alt="testing_library" width="50" height="50"/>
+        </a> 
+      </td>
+      <td align="center">
+        <p>Cypress</p>
+        <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="50" height="50"/>
+        </a>
+      </td>
+      <td align="center">
+        <p>GitHub Actions</p>
+        <a href="https://github.com/features/actions/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=githubactions" alt="github_actions" width="50" height="50"/>
         </a> 
       </td>
     </tr>
@@ -140,16 +154,10 @@
   <table>
     <tr>
       <td align="center">
-        <p>Cypress</p>
-        <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="50" height="50"/>
+        <p>Nest.js</p>
+        <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="50" height="50"/>
         </a>
-      </td>
-      <td align="center">
-        <p>GitHub Actions</p>
-        <a href="https://github.com/features/actions/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=githubactions" alt="github_actions" width="50" height="50"/>
-        </a> 
       </td>
     </tr>
   </table>
