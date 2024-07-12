@@ -159,6 +159,12 @@
           <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="50" height="50"/>
         </a>
       </td>
+      <td align="center">
+        <p>Prisma</p>
+        <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="50" height="50"/>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
