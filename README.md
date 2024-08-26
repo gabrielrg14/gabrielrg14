@@ -2,8 +2,8 @@
 
 ### 👋 Hi, I'm Gabriel Rapucci Gonzalez! 
 
-- 👨‍💻 Front-end Developer <br>
-- 🏠 Campinas, Brazil <br>
+- 👨‍💻 Front-end Software Developer <br>
+- 🏠 Campinas, SP - Brazil <br>
 - 🎓 System Analisys and Development <br>
 - 🎯 Always searching learn a little more <br>
 - 🌐 [My website](https://gabrielrapucci.com.br/)
