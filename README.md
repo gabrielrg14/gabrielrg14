@@ -185,10 +185,10 @@
 <div align="center">
   <h3>💬 Contacts</h3>
   
-  <a href="mailto:gabrielrapuccigonzalez14@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-161817?style=for-the-badge&logo=microsoftoutlook&logoColor=18a330&color=161817"></a>
+  <a href="mailto:gabrielrapuccigonzalez14@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-161817?style=for-the-badge&logo=gmail&logoColor=18a330&color=161817"></a>
   <a href="https://www.linkedin.com/in/gabrielrapuccigonzalez/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%0F6CBD?style=for-the-badge&logo=linkedin&logoColor=18a330&color=161817"></a>
   <a href="https://www.instagram.com/gabriel_rapucci/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%0F6CBD?style=for-the-badge&logo=instagram&logoColor=18a330&color=161817"></a>
-  <a href="https://gabrielrapucci.com.br/" target="_blank"> <img src="https://img.shields.io/badge/-Website-%161817?style=for-the-badge&logo=vercel&logoColor=18a330&color=161817"></a>
+  <a href="https://api.whatsapp.com/send/?phone=5519981392516&text&type=phone_number&app_absent=0" target="_blank"> <img src="https://img.shields.io/badge/-WhatsApp-%161817?style=for-the-badge&logo=whatsapp&logoColor=18a330&color=161817"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=18a330&height=100&section=footer"/>
