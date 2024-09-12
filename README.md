@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm Gabriel Rapucci Gonzalez! 
 
-- 👨‍💻 Front-end Software Developer <br>
+- 👨‍💻 Software Developer | Front-end <br>
 - 🏠 Campinas, SP - Brazil <br>
 - 🎓 System Analisys and Development <br>
 - 🎯 Always searching learn a little more <br>
@@ -11,7 +11,7 @@
 ##
 
 <div align="center">
-  <h3>👨‍💻 Techs and tools I usually use</h3>
+  <h3>👨‍💻 Main technologies I master</h3>
   
   <table>
     <tr>
@@ -96,7 +96,7 @@
 ##
 
 <div align="center">
-  <h3>💻 Techs and tools I have used</h3>
+  <h3>💻 Technologies I know, but have not yet mastered</h3>
   
   <table>
     <tr>
@@ -104,12 +104,6 @@
         <p>React Native</p>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=react" alt="react_native" width="50" height="50"/>
-        </a> 
-      </td>
-      <td align="center">
-        <p>Expo</p>
-        <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-          <img src="https://static.expo.dev/static/brand/square-228x228.png" alt="expo" width="50" height="50"/>
         </a> 
       </td>
       <td align="center">
@@ -130,11 +124,25 @@
           <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="50" height="50"/>
         </a> 
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <p>Node.js</p>
         <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
         </a> 
+      </td>
+      <td align="center">
+        <p>Nest.js</p>
+        <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="50" height="50"/>
+        </a>
+      </td>
+      <td align="center">
+        <p>Prisma</p>
+        <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="50" height="50"/>
+        </a>
       </td>
       <td align="center">
         <p>Docker</p>
@@ -149,20 +157,14 @@
 ##
 
 <div align="center">
-  <h3>📚 I'm studying at the moment</h3>
+  <h3>📚 I'm studying right now</h3>
 
   <table>
     <tr>
       <td align="center">
-        <p>Nest.js</p>
-        <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="50" height="50"/>
-        </a>
-      </td>
-      <td align="center">
-        <p>Prisma</p>
-        <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="50" height="50"/>
+        <p>AWS</p>
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="50" height="50"/>
         </a>
       </td>
     </tr>
@@ -185,8 +187,8 @@
 <div align="center">
   <h3>💬 Contacts</h3>
   
-  <a href="mailto:gabrielrapuccigonzalez14@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-161817?style=for-the-badge&logo=gmail&logoColor=18a330&color=161817"></a>
   <a href="https://www.linkedin.com/in/gabrielrapuccigonzalez/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%0F6CBD?style=for-the-badge&logo=linkedin&logoColor=18a330&color=161817"></a>
+  <a href="mailto:gabrielrapuccigonzalez14@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-161817?style=for-the-badge&logo=gmail&logoColor=18a330&color=161817"></a>
   <a href="https://www.instagram.com/gabriel_rapucci/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%0F6CBD?style=for-the-badge&logo=instagram&logoColor=18a330&color=161817"></a>
   <a href="https://api.whatsapp.com/send/?phone=5519981392516&text&type=phone_number&app_absent=0" target="_blank"> <img src="https://img.shields.io/badge/-WhatsApp-%161817?style=for-the-badge&logo=whatsapp&logoColor=18a330&color=161817"></a>
 </div>
