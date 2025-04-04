@@ -162,9 +162,8 @@
   <table>
     <tr>
       <td align="center">
-        <p>AWS</p>
-        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="50" height="50"/>
+        <a href="https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675" target="_blank" rel="noreferrer">
+          <img src="https://m.media-amazon.com/images/I/71T7aD3EOTL._UF894,1000_QL80_.jpg" alt="clean_code" width="150" height="200"/>
         </a>
       </td>
     </tr>
