@@ -16,18 +16,6 @@
   <table>
     <tr>
       <td align="center">
-        <p>HTML</p>
-        <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=html" alt="html" width="50" height="50"/>
-        </a>
-      </td>
-      <td align="center">
-        <p>CSS</p>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=css" alt="css" width="50" height="50"/>
-        </a>
-      </td>
-      <td align="center">
         <p>JavaScript</p>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
@@ -46,25 +34,25 @@
         </a> 
       </td>
       <td align="center">
+        <p>Redux</p>
+        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="50" height="50"/>
+        </a> 
+      </td>
+      <td align="center">
         <p>Next.js</p>
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="50" height="50"/>
         </a> 
       </td>
-    </tr>
-    <tr>
       <td align="center">
-        <p>Styled C.</p>
+        <p>Styled Comp.</p>
         <a href="https://styled-icons.dev/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styled_components" width="50" height="50"/>
         </a> 
       </td>
-      <td align="center">
-        <p>Bootstrap</p>
-        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="50" height="50"/>
-        </a>
-      </td>
+    </tr>
+    <tr>
       <td align="center">
         <p>Jest</p>
         <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
@@ -84,9 +72,21 @@
         </a>
       </td>
       <td align="center">
-        <p>GitHub Actions</p>
+        <p>Git</p>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/>
+        </a> 
+      </td>
+      <td align="center">
+        <p>GH Actions</p>
         <a href="https://github.com/features/actions/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=githubactions" alt="github_actions" width="50" height="50"/>
+        </a> 
+      </td>
+      <td align="center">
+        <p>Azure DevOps</p>
+        <a href="https://azure.microsoft.com/pt-br/products/devops/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=azure" alt="azure_devops" width="50" height="50"/>
         </a> 
       </td>
     </tr>
@@ -96,7 +96,7 @@
 ##
 
 <div align="center">
-  <h3>💻 Technologies that I know, but don't master</h3>
+  <h3>💻 Other technologies I've tried</h3>
   
   <table>
     <tr>
@@ -104,12 +104,6 @@
         <p>React Native</p>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=react" alt="react_native" width="50" height="50"/>
-        </a> 
-      </td>
-      <td align="center">
-        <p>Redux</p>
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="50" height="50"/>
         </a> 
       </td>
       <td align="center">
@@ -124,8 +118,6 @@
           <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="50" height="50"/>
         </a> 
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <p>Node.js</p>
         <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
