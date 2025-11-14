@@ -154,8 +154,9 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675" target="_blank" rel="noreferrer">
-          <img src="https://m.media-amazon.com/images/I/71T7aD3EOTL._UF894,1000_QL80_.jpg" alt="clean_code" width="150" height="200"/>
+        <p>Cursor</p>
+        <a href="https://cursor.com" target="_blank" rel="noreferrer">
+          <img src="https://simpleicons.org/icons/cursor.svg" alt="cursor" width="50" height="50"/>
         </a>
       </td>
     </tr>
